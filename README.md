@@ -24,6 +24,8 @@ Key areas:
 
 All figures, stores, markets, people, actions, and assistant responses are simulated for interview discussion. This project is not connected to OXXO systems, FEMSA systems, live APIs, or any confidential company data.
 
+The store-level source data is available in [`data/oxxo_synthetic_store_data.csv`](data/oxxo_synthetic_store_data.csv), with definitions in [`data/README.md`](data/README.md).
+
 ## Research Context
 
 The companion file `OXXO_Dashboard_Research.md` summarizes the public business context used to shape the dashboard concept.
