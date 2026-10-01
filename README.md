@@ -4,7 +4,7 @@ Interactive business intelligence concept prepared by Bijaya Humagain for the OX
 
 ## View
 
-Open `index.html` in a browser, or enable GitHub Pages for this repository to share it as a public web page.
+Open [the live dashboard](https://bhumagain999.github.io/OXXO/) or `index.html` in a browser.
 
 ## What It Shows
 
@@ -27,3 +27,7 @@ All figures, stores, markets, people, actions, and assistant responses are simul
 ## Research Context
 
 The companion file `OXXO_Dashboard_Research.md` summarizes the public business context used to shape the dashboard concept.
+
+## Editing
+
+Edit `dashboard.html`, then run `node build.cjs` to refresh the standalone `index.html` served by GitHub Pages.
